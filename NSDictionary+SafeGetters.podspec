@@ -33,9 +33,7 @@ Safe getting typed values from the dictionary.
   s.requires_arc = false
 
   s.source_files = '*.{h,hpp,mm}'
-  s.header_dir = 'NSDictionary-SafeGetters'
-  s.module_name = 'NSDictionary-SafeGetters'
-
+  s.header_dir = 'NSDictionary_SafeGetters'
   s.public_header_files = '*.h'
   s.libraries = 'stdc++'
 
